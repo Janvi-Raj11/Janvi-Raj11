@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF0080&center=true&vCenter=true&width=600&lines=Final-year+B.Tech+Student+🎓;Java+%7C+DSA+Enthusiast+💻;Web+Developer+🌐;Code.+Learn.+Build.+Repeat.+🚀" alt="Typing SVG Animation" />
 </p>
 
----
 
 ## 💻 Tech Stack  
 
@@ -25,33 +24,33 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
----
+
 
 ## 🌱 Currently Learning
 - Spring Boot & Microservices Architecture
 - Multithreading & Concurrency in Java
 
----
+
 
 ## 🎯 Interests  
 
 - 💻 Software Development (Java Applications, Web Development)  
 - 📈 Problem-Solving with DSA  
 
----
+
 
 ## 🤝 Open to Collaborate On  
 
 🔹 Java-based projects  
 🔹 Innovative Web Development initiatives  
 
----
+
 
 ## 🚀 Featured Projects  
 
 🔤 [TextCraft](https://github.com/Janvi-Raj11/TextCraft) – An intelligent text utility tool built with React and Bootstrap  
 
----
+
 
 ## 📊 GitHub Stats  
 
@@ -60,7 +59,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janvi-Raj11&theme=tokyonight&hide_border=true" height="160px"/>
 </p>
 
----
 
 ## 📈 Top Languages  
 
@@ -68,7 +66,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janvi-Raj11&layout=compact&theme=tokyonight&hide_border=true" height="150px"/>
 </p>
 
----
 
 ## 🌟 Profile Insights  
 
@@ -78,7 +75,6 @@
   <img src="https://img.shields.io/github/stars/Janvi-Raj11?affiliations=OWNER&style=flat-square&color=ff69b4" alt="GitHub Stars"/>
 </p>
 
----
 
 ## 📫 Connect With Me  
 
@@ -88,7 +84,6 @@
   <a href="https://github.com/Janvi-Raj11"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
 
 ## ✨ Fun Tagline  
 
