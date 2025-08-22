@@ -27,10 +27,9 @@
 
 ---
 
-## 🌱 Currently Learning  
-
-🚀 Spring Boot & Microservices Architecture  
-⚡ Multithreading & Concurrency in Java  
+## 🌱 Currently Learning
+- Spring Boot & Microservices Architecture
+- Multithreading & Concurrency in Java
 
 ---
 
@@ -91,4 +90,6 @@
 
 ---
 
-✨ “Turning coffee ☕ into code 💻 and ideas 💡 into reality 🚀”
+## ✨ Fun Tagline  
+
+“Turning coffee ☕ into code 💻 and ideas 💡 into reality 🚀”
